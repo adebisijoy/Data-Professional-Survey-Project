@@ -1,6 +1,6 @@
 # Analysis of Data Professionals
 
-### This project displays an anlysis done on a survey carried out on data professionals, inclusive of other profession. The visualization tool that was used is Power BI.
+### This project displays an analysis done on a survey carried out on data professionals, inclusive of other profession. The visualization tool that was used is Power BI.
 
 #  Dashboard
 
